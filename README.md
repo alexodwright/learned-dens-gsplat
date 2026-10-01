@@ -1,6 +1,6 @@
 # Investigating a Learned Densification Policy for 3D Gaussian Splatting 
 
-> This repository contains an implementation of a learned densification network, inspired by the paper [Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting](../learnable-density-control-for-gaussian-splatting-paper.pdf)
+> This repository contains an implementation of a learned densification network, inspired by the paper [Beyond Heuristics: Learnable Density Control for 3D Gaussian Splatting](https://arxiv.org/html/2605.00408v1)
 
 ## Abstract
 
